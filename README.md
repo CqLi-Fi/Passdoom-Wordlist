@@ -43,3 +43,12 @@ This calculation reflects the amount of password combinations generated from a s
 X. Total Combinations = 100 × 30 × 30 × 30 × 50 × 20 × 10
 Z. Total Combination  = 3.000.000
 ```
+
+#### Bulk Diversification
+A combination of infinite language options with limited options such as special characters, usernames, etc. leads to some pretty big results.
+
+```python
+X. Total Combinations = 100 × 30 × 30 × 30 × 50 × 20 × 10
+Z. Total Combination  = 3.000.000
+P. Language Options   = 500 Million
+```
