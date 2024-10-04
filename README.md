@@ -14,7 +14,7 @@
 
 #### Potential Password Combination
 
-```bash
+```http
 A = Animal Name / Everyday Item / Hobby
 B = Work / Sport / Team / Special Day / Date
 C = Important Person / Character / Celebrity
@@ -22,10 +22,10 @@ D = Numbers / Special Characters
 N = Username (let's take Jessica as an example)
 ```
 
-| Cipher    | Format   | Password                   |
-| :-------- | :------- | :--------------------------|
-| `🔳 1`|`N + B + D + C`|🔑 Jessica1992*Barca.|
-| `🟩 2`|`C + D + N + A + B`|🔑 Barca/JessicaCat1992 |
-| `🟪 3`|`N + A + B + C + D`|🔑 JessicaCat1992Barca. |
-| `🟨 4`|`D + N`|🔑 155664jessica |
-| `🟥 5`|`B + N + D`|🔑 1995Jessica* |
+| Cipher    | Format   | Password                     |
+| :-------- | :------- | :--------------------------  |
+| `⚪ 1`|`N + B + D + C`|🔑 Jessica1992*Barca.       |
+| `⚪ 2`|`C + D + N + A + B`|🔑 Barca/JessicaCat1992 |
+| `⚪ 3`|`N + A + B + C + D`|🔑 JessicaCat1992Barca. |
+| `⚪ 4`|`D + N`|🔑 155664jessica                    |
+| `⚪ 5`|`B + N + D`|🔑 1995Jessica*                 |
