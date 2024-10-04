@@ -22,7 +22,7 @@ D = Numbers / Special Characters
 N = Username (let's take Jessica as an example)
 ```
 
-| Cipher    | Format   | Password                     |
+| Salt    | Format   | Password                     |
 | :-------- | :------- | :--------------------------  |
 | `⚪ 1`|`N + B + D + C`|🔑 Jessica1992*Barca.       |
 | `⚪ 2`|`C + D + N + A + B`|🔑 Barca/JessicaCat1992 |
