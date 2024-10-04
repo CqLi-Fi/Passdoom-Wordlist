@@ -72,4 +72,5 @@ Use your preferred word list with the url structure without the need to download
 ```bash
 Raw[EN] : Updating
 Raw[TR] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish.txt
+Raw[FTP]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/ftp.txt
 ```
