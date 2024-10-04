@@ -13,7 +13,7 @@
 ```mermaid
 
 
-> Potential Password Combination
+Potential Password Combination
 
 
 A = Animal Name / Everyday Item / Hobby
@@ -22,7 +22,7 @@ C = Important Person / Character / Celebrity
 D = Numbers / Special Characters
 N = Username (let's take Jessica as an example)
 
-> The cipher is based on the following formula
+The cipher is based on the following formula
 
 🔳 Cipher1 = N + B + D + C
 🔑 Jessica1992*Barca
