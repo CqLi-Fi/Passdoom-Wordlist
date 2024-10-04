@@ -32,7 +32,7 @@ N = Username (let's take Jessica as an example)
 
 
 #### Total Combination Calculation
-
+This calculation reflects the amount of password combinations generated from a single “username” or “definition”.
 ```bash
 1. (User Name Options)
 2. (Animal/Hobby Options)
@@ -42,6 +42,4 @@ N = Username (let's take Jessica as an example)
 
 X. Total Combinations = 100 × 30 × 30 × 30 × 50 × 20 × 10
 Z. Total Combination  = 3.000.000
-
-This calculation reflects the amount of password combinations generated from a single “username” or “definition”.
 ```
