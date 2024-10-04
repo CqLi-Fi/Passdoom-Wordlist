@@ -52,3 +52,13 @@ X. Total Combinations = 100 × 30 × 30 × 30 × 50 × 20 × 10
 Z. Total Combination  = 3.000.000
 P. Language Options   = 500 Million
 ```
+
+#### Wordlist Paths
+Use the shortcuts of the word list that suits your preference in your own script.
+
+```python
+Raw[EN] : Updating
+Raw[TR] : Updating
+Raw[RU] : Updating
+Raw[PL] : Updating
+```
