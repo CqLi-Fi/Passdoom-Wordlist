@@ -54,9 +54,9 @@ P. Language Options   = 500 Million
 ```
 
 #### Wordlist Paths
-Use the shortcuts of the word list that suits your preference in your own script.
+Try shortcuts to the word list of your preference in your own software or with john, hashcat.
 
-```python
+```bash
 Raw[EN] : Updating
 Raw[TR] : Updating
 Raw[RU] : Updating
