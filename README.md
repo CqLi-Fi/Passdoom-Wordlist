@@ -13,6 +13,8 @@ Structurally, its use in these areas was tested and it was found that it needed 
 ✔️ FTP servers
 🟠 Crypto wallets
 🟡 PhpMyAdmin
+✔️ MD5
+✔️ SHA1
 ```
 
 # Passdoom
