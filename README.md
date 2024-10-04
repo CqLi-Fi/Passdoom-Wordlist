@@ -54,7 +54,7 @@ P. Language Options   = 500 Million
 ```
 
 #### Wordlist Paths
-Try shortcuts to the word list of your preference in your own software or with john, hashcat.
+Use your preferred word list with the url structure without the need to download and get rid of the burden.
 
 ```bash
 Raw[EN] : Updating
