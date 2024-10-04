@@ -14,7 +14,7 @@
 
 #### Potential Password Combination
 
-```http
+```bash
 A = Animal Name / Everyday Item / Hobby
 B = Work / Sport / Team / Special Day / Date
 C = Important Person / Character / Celebrity
