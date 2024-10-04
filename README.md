@@ -69,5 +69,5 @@ Use your preferred word list with the url structure without the need to download
 
 ```bash
 Raw[EN] : Updating
-Raw[TR] : Updating
+Raw[TR] : [Updating](https://raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish.txt)
 ```
