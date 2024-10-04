@@ -4,6 +4,17 @@
 
 > The use of the open source script to achieve results by brute force methods is the sole responsibility of the user. The user bears full responsibility for how and for what purpose this script is used.
 
+# Usage Areas
+
+Structurally, its use in these areas was tested and it was found that it needed to be improved for some targets.
+```bash
+✔️ Email systems (Gmail, Hotmail, Yandex)
+✔️ Social media platforms (İnstagram, Twitter)  
+✔️ FTP servers
+🟠 Crypto wallets
+🟡 PhpMyAdmin
+```
+
 # Passdoom
 
 ![Logo](https://gcdnb.pbrd.co/images/BMHc1dlzPVf4.png?o=1)
