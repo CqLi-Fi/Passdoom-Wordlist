@@ -59,6 +59,4 @@ Use your preferred word list with the url structure without the need to download
 ```bash
 Raw[EN] : Updating
 Raw[TR] : Updating
-Raw[RU] : Updating
-Raw[PL] : Updating
 ```
