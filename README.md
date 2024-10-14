@@ -11,6 +11,7 @@ Structurally, its use in these areas was tested and it was found that it needed 
 ✔️ Email systems (Gmail, Hotmail, Yandex)
 ✔️ Social media platforms (İnstagram, Twitter)  
 ✔️ FTP servers
+✔️ Wifi
 🟠 Crypto wallets
 🟡 PhpMyAdmin
 ✔️ MD5
