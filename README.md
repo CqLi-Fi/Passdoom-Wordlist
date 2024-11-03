@@ -71,7 +71,7 @@ P. Language Options   = 500 Million
 Use your preferred word list with the url structure without the need to download and get rid of the burden.
 
 ```bash
-Raw[EN] : Updating
+Raw[EN] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/english.txt
 Raw[TR] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish.txt
 |-------: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish2.txt
 Raw[FTP]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/ftp.txt
