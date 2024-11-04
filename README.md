@@ -75,4 +75,5 @@ Raw[EN] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wo
 Raw[TR] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish.txt
 |-------: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/turkish2.txt
 Raw[FTP]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/ftp.txt
+Raw[NUM]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/numbers.txt
 ```
