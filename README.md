@@ -14,6 +14,8 @@ Structurally, its use in these areas was tested and it was found that it needed 
 ✔️ Wifi
 🟠 Crypto wallets
 🟡 PhpMyAdmin
+✔️ CPanel
+✔️ Wordpress
 ✔️ MD5
 ✔️ SHA1
 ```
