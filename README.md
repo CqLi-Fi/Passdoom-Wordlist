@@ -6,6 +6,12 @@
 
 > The current passdoom.py script will only help you break hashes for now, for other use cases just evaluate wordlist files.
 
+# Execution
+
+```bash
+python3 passdoom.py
+```
+
 # Usage Areas
 
 Structurally, its use in these areas was tested and it was found that it needed to be improved for some targets.
