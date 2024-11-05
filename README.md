@@ -4,6 +4,8 @@
 
 > The use of the open source script to achieve results by brute force methods is the sole responsibility of the user. The user bears full responsibility for how and for what purpose this script is used.
 
+> The current passdoom.py script will only help you break hashes for now, for other use cases just evaluate wordlist files.
+
 # Usage Areas
 
 Structurally, its use in these areas was tested and it was found that it needed to be improved for some targets.
