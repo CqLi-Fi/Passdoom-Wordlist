@@ -19,7 +19,7 @@ python3 passdoom.py
 ```bash
 python3 passdoom.py hash.txt
 ```
-![Logo]([https://gcdnb.pbrd.co/images/BMHc1dlzPVf4.png?o=1](https://filebin.net/dt3msnesnu50kf92/Ads%c4%b1z%20tasar%c4%b1m%20%281%29.png))
+![Logo]([https://i.imgur.com/iMC02Rc.png))
 
 # Usage Areas
 
