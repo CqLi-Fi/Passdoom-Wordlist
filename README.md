@@ -9,6 +9,10 @@
 # Execution
 
 ```bash
+pip install requests rich alive-progress
+```
+
+```bash
 python3 passdoom.py
 ```
 
