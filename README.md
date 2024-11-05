@@ -12,6 +12,10 @@
 python3 passdoom.py
 ```
 
+```bash
+python3 passdoom.py hash.txt
+```
+
 # Usage Areas
 
 Structurally, its use in these areas was tested and it was found that it needed to be improved for some targets.
