@@ -95,9 +95,3 @@ Raw[TR] : raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wo
 Raw[FTP]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/ftp.txt
 Raw[NUM]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/numbers.txt
 ```
-
-## Contributors
-
-Thank you to everyone who has contributed to this project! ❤️
-
-- [@9Ball-max](https://github.com/9Ball-max)
