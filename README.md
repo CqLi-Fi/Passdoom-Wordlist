@@ -26,9 +26,9 @@ Structurally, its use in these areas was tested and it was found that it needed 
 ```bash
 ✔️ Email systems (Gmail, Hotmail, Yandex)
 ✔️ Social media platforms (İnstagram, Twitter)  
-✔️ FTP servers
+✔️ FTP Servers
 ✔️ Wifi
-🟠 Crypto wallets
+🟠 Crypto Wallets
 🟡 PhpMyAdmin
 ✔️ CPanel
 ✔️ Wordpress
