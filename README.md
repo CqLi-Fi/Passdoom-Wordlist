@@ -7,7 +7,7 @@
 > The current passdoom.py script will only help you break hashes for now, for other use cases just evaluate wordlist files.
 
 # Execution
-
+[![Version](https://img.shields.io/badge/Passdoom-0.0.1beta-brightgreen.svg?maxAge=259200)]()
 ```bash
 pip install requests rich alive-progress
 ```
