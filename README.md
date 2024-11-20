@@ -101,4 +101,4 @@ Raw[DAT]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wo
 
 We gladly accept your crypto donations! 💖 If you want to support us, you can use the button below.
 
-[![Donate with USDT](https://img.shields.io/badge/Donate-USDT-26A17B?logo=tether&logoColor=white&style=for-the-badge)](https://www.binance.com/en/address/0xf0d4c8708b4ceee73da1dd8c972527779d4a21b8)
+[![Donate with USDT](https://img.shields.io/badge/Donate-USDT-26A17B?logo=tether&logoColor=white&style=for-the-badge)](usdt:0xf0d4c8708b4ceee73da1dd8c972527779d4a21b8)
