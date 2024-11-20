@@ -97,7 +97,7 @@ Raw[NUM]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wo
 Raw[DAT]: raw.githubusercontent.com/CqLi-Fi/Passdoom-Wordlist/refs/heads/main/Wordlist/data11_2024.txt
 ```
 
-# Tip 🎉
+# Donate 🎉
 
 We gladly accept your crypto donations! 💖 If you want to support us, you can use the button below.
 
