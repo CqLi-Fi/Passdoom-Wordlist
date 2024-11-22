@@ -1,10 +1,12 @@
 # Start
 
-> The use of the available data and information is the sole responsibility of the users. All decisions about how and for what purpose this data will be used belong to the user.
+> ❇️ The use of the available data and information is the sole responsibility of the users. All decisions about how and for what purpose this data will be used belong to the user.
 
-> The use of the open source script to achieve results by brute force methods is the sole responsibility of the user. The user bears full responsibility for how and for what purpose this script is used.
+> ❇️ The use of the open source script to achieve results by brute force methods is the sole responsibility of the user. The user bears full responsibility for how and for what purpose this script is used.
 
-> The current passdoom.py script will only help you break hashes for now, for other use cases just evaluate wordlist files.
+> ❇️ The current passdoom.py script is designed specifically for hash-breaking tasks. If you have other use cases in mind, such as analyzing or generating wordlist files, you'll need to handle those separately.
+
+> ✴️ The word list files titled 'Data' contain leaked passwords that we have identified and obtained. It is recommended to check them regularly for your security.
 
 # Execution
 [![Version](https://img.shields.io/badge/Passdoom-0.0.1beta-brightgreen.svg?maxAge=259200)]()
