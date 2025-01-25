@@ -39,11 +39,6 @@ Structurally, its use in these areas was tested and it was found that it needed 
 ```
 
 # Passdoom
- ____                   _                       
-|  _ \ __ _ ___ ___  __| | ___   ___  _ __ ___  
-| |_) / _` / __/ __|/ _` |/ _ \ / _ \| '_ ` _ \ 
-|  __/ (_| \__ \__ \ (_| | (_) | (_) | | | | | |
-|_|   \__,_|___/___/\__,_|\___/ \___/|_| |_| |_|
 
 > The "wordlist" data within the project offers a comprehensive range of password combinations automatically generated using advanced encryption and security techniques. These combinations serve as a critical resource for identifying potential vulnerabilities, testing password strength, and conducting in-depth attack simulations. The wordlist data supports a robust password-cracking process, enabling users to enhance their security levels while proactively identifying and mitigating potential threats. Moreover, this data significantly demonstrates detection capabilities, revealing security weaknesses with high precision.
 
